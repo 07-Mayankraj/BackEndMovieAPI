@@ -1,5 +1,5 @@
 ## BackEndMovieAPI
-    ->Movie backend, movies can be inserted deleted and updated using api, also has search by langauge and sort by rating filter.
+    Movie backend, movies can be inserted deleted and updated using api, also has search by langauge and sort by rating filter.
 ## Design 
 ![design](https://user-images.githubusercontent.com/87657007/210721817-56ae896e-654e-4062-81d6-82b7e0a7b443.png)
 
@@ -7,12 +7,13 @@
 ## npm pakages
 ``` node ,express, mongoose, mongoDB,nodemon. ```
 
-### api 
+### CRUD APIs 
     ->show all : http://localhost:3500/listMovies
     ->pegination : http://localhost:3500/movies?page=1&limit=5 ;
     ->sort by rating : http://localhost:3500/sortByRatingMovies?ACD=-1
     ->filter by lang : http://localhost:3500/sortByLangMovies?language=English
     ->delete : http://localhost:3500/deleteMovie/Severence
+    
 ### index.js
 
     ->The code is a simple express app that listens on port 3500.
