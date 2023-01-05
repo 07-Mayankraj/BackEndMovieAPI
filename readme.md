@@ -4,11 +4,11 @@
 
 
 ### api 
-->show all : http://localhost:3500/listMovies
-->pegination : http://localhost:3500/movies?page=1&limit=5 ;
-->sort by rating : http://localhost:3500/sortByRatingMovies?ACD=-1
-->filter by lang : http://localhost:3500/sortByLangMovies?language=English
-->delete : http://localhost:3500/deleteMovie/Severence
+    ->show all : http://localhost:3500/listMovies
+    ->pegination : http://localhost:3500/movies?page=1&limit=5 ;
+    ->sort by rating : http://localhost:3500/sortByRatingMovies?ACD=-1
+    ->filter by lang : http://localhost:3500/sortByLangMovies?language=English
+    ->delete : http://localhost:3500/deleteMovie/Severence
 ### index.js
 
     ->The code is a simple express app that listens on port 3500.
