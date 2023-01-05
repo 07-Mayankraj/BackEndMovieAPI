@@ -1,7 +1,8 @@
 ## Design 
 ![Untitled-2022-12-03-1440](https://user-images.githubusercontent.com/87657007/210626843-5118cf96-f5f2-4b84-a305-853cb374871e.png)
 
-
+## npm pakages
+``` node ,express, mongoose, mongoDB,nodemon.
 
 ### api 
     ->show all : http://localhost:3500/listMovies
