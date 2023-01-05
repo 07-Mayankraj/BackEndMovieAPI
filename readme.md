@@ -1,5 +1,6 @@
 ## Design 
-![Untitled-2022-12-03-1440](https://user-images.githubusercontent.com/87657007/210626843-5118cf96-f5f2-4b84-a305-853cb374871e.png)
+![design](https://user-images.githubusercontent.com/87657007/210721817-56ae896e-654e-4062-81d6-82b7e0a7b443.png)
+
 
 ## npm pakages
 ``` node ,express, mongoose, mongoDB,nodemon. ```
